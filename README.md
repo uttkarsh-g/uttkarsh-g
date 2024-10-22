@@ -16,7 +16,7 @@ _I'm currently a student and self-learning web development, diving deeper into t
 const uttkarsh = {
   pronouns: "He" | "Him",
   code:["HTML", "CSS", "JAVASCRIPT","React", "Node","Gsap", "Lenis","Tailwind css", "Bootstrap",],
-  tools:["Vs code","Figma","Illustrator","Cursor AI","Git","Github"]
+  tools:["Vs code","Figma","Illustrator","Cursor AI","Git","Github"],
   canDesign:True,
   isCreative:True,
   funFact:"I can remix music too"
