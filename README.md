@@ -1,4 +1,4 @@
-<h1 style="Font-size:50px; text-align:center" > नमस्ते  🌹</h1>
+<h1 align:center > नमस्ते  🌹</h1>
 
 <br>
 
