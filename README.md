@@ -26,4 +26,4 @@ const uttkarsh = {
 <br>
 
 
-_I’m always looking to improve, and your feedback helps me do just that. If you catch something that’s off or could be better, don’t hold back—let me know!_
+_I’m always looking to improve, and your feedback helps me do just that. If you catch something that’s off or could be better, don’t hold back let me know!_
